@@ -1,0 +1,13 @@
+
+{
+    "THEME":{
+        "BACKGROUND_COLOR": "#7E7E7E",
+        "WIDGET_COLOR": "#5D5C5C",
+        "TEXT_COLOR":"#585858", 
+        "ACTIVE_BACKGROUND_COLOR":"#EAEAEA"
+    },
+    "PROFIL":{
+        "NAME": "user"
+    }
+
+}
